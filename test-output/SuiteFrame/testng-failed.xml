@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteFrame]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestFrame(failed)">
+    <classes>
+      <class name="com.salesforce.automation.scripts.LeadsModule">
+        <methods>
+          <include name="TC23"/>
+          <include name="tearDownAfterTestMethod"/>
+          <include name="TC20_leadsTab"/>
+          <include name="TC21_leadsSelectView"/>
+          <include name="setUpBeforeMethod"/>
+          <include name="TC22_defaultView"/>
+        </methods>
+      </class> <!-- com.salesforce.automation.scripts.LeadsModule -->
+      <class name="com.salesforce.automation.scripts.LoginModule">
+        <methods>
+          <include name="tearDownAfterTestMethod"/>
+          <include name="ForgotPassword_4B"/>
+          <include name="ForgotPassword_4A"/>
+          <include name="setUpBeforeMethod"/>
+          <include name="LoginToSalesForce_2"/>
+          <include name="LoginErrorMessage_1"/>
+        </methods>
+      </class> <!-- com.salesforce.automation.scripts.LoginModule -->
+    </classes>
+  </test> <!-- TestFrame(failed) -->
+</suite> <!-- Failed suite [SuiteFrame] -->

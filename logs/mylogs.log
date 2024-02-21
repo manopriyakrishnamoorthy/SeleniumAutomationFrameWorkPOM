@@ -1,0 +1,997 @@
+20240216 13:30:49 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 13:30:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 13:30:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 13:30:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 13:30:55 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 13:30:55 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 13:30:56 INFO  [main] base.BasePage BasePage.java55 - data is entered in usernameTextBox
+20240216 13:30:56 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 13:30:57 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 13:30:57 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 13:30:57 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 13:30:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 13:30:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 13:30:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 13:57:43 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 13:57:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 13:57:46 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 13:57:46 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 13:57:47 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 13:57:47 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 13:57:50 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 13:57:50 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 13:57:52 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 13:57:52 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 13:57:52 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 13:57:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 13:57:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 13:57:53 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 14:01:49 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 14:01:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 14:01:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 14:01:54 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 14:01:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 14:01:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 14:02:00 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 14:02:01 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 14:02:01 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 14:02:01 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 14:02:01 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 14:02:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 14:02:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 14:02:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 14:02:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 14:02:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 14:02:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 14:02:04 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240216 14:02:05 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 14:02:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 14:02:08 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 14:02:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240216 14:02:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 14:02:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 14:02:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 17:32:42 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 17:32:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:32:45 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:32:45 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:32:46 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:32:46 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 17:32:46 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:32:47 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 17:32:47 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 17:32:49 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:32:51 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 17:32:51 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 17:32:51 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 17:32:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:32:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:32:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:32:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:32:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:32:54 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:32:54 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 17:32:54 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:32:55 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 17:32:55 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:32:55 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 17:32:55 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 17:32:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:32:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:32:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:32:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:32:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:32:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:32:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240216 17:32:59 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:33:00 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 17:33:01 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:33:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240216 17:33:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:33:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:33:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 17:40:28 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 17:40:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:40:30 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:40:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:40:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:40:31 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 17:40:32 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:40:32 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 17:40:32 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 17:40:34 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:40:36 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 17:40:37 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 17:40:37 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 17:40:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:40:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:40:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:40:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:40:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:40:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:40:40 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 17:40:41 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:40:41 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 17:40:42 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:40:42 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 17:40:42 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 17:40:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:40:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:40:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:40:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:40:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:40:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:40:43 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240216 17:40:44 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:40:44 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 17:40:46 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:40:48 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240216 17:40:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:40:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:40:48 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 17:41:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 17:41:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 17:41:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 17:41:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 17:41:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 17:41:15 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 17:41:16 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 17:41:16 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 17:41:16 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 17:41:18 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 17:41:19 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 17:41:19 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 17:41:19 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 17:41:20 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 17:41:20 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 17:41:20 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:02:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:02:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:02:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:02:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:02:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:02:15 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 18:02:16 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:02:16 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 18:02:16 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:02:16 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 18:02:16 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 18:02:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:02:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:02:16 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:02:38 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:02:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:02:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:02:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:02:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:02:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240216 18:02:42 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:02:43 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 18:02:45 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:02:47 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240216 18:02:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:02:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:02:48 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:03:43 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:03:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:03:44 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:03:44 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:03:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:03:48 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240216 18:03:49 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:03:49 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240216 18:03:50 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:03:50 INFO  [main] base.BasePage BasePage.java77 - text is extracted from login errorMessage
+20240216 18:03:50 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginErrorMessage_1.......test execution completed with success........
+20240216 18:03:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:03:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:03:50 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:08:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:08:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:08:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:08:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:08:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:08:19 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 18:08:19 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:08:20 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 18:08:20 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 18:08:22 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:08:23 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 18:08:23 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 18:08:23 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 18:08:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:08:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:08:24 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:09:51 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:09:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:09:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:09:53 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 18:09:54 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:09:54 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 18:09:54 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 18:09:56 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:09:57 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 18:09:58 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 18:10:03 INFO  [main] base.BasePage BasePage.java116 - userName TextBoxField is not displayed
+20240216 18:10:03 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 18:10:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:10:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:10:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 18:49:36 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 18:49:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 18:49:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 18:49:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 18:49:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 18:49:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 18:49:42 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 18:49:42 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 18:49:43 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 18:49:44 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 18:49:46 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 18:49:46 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 18:49:51 INFO  [main] base.BasePage BasePage.java77 - text is extracted from userNamefiledtext
+20240216 18:49:51 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 18:49:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 18:49:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 18:49:51 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 19:44:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 19:44:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 19:44:44 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 19:44:45 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 19:44:47 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 19:44:47 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4A.......test execution started........
+20240216 19:44:47 INFO  [main] base.BasePage BasePage.java66 - forgotpasswordlinkbutton is clicked
+20240216 19:44:48 INFO  [main] base.BasePage BasePage.java77 - text is extracted from forgotPageMsg
+20240216 19:44:48 INFO  [main] base.BasePage BasePage.java55 - data is entered in userName
+20240216 19:44:49 INFO  [main] base.BasePage BasePage.java66 - continuebutton is clicked
+20240216 19:44:49 INFO  [main] base.BasePage BasePage.java77 - text is extracted from EmailError
+20240216 19:44:49 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4A.......test execution completed with success........
+20240216 19:44:49 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 19:44:49 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 19:44:49 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 20:02:05 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:02:06 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:02:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:02:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:02:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:02:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240216 20:02:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:02:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:02:14 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:02:14 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - ForgotPassword_4B.......test execution completed with failure........
+20240216 20:02:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 20:02:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 20:02:14 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 20:03:59 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:04:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:04:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:04:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:04:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:04:04 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240216 20:04:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:04:07 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:04:07 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:04:07 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - ForgotPassword_4B.......test execution completed with failure........
+20240216 20:04:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 20:04:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 20:04:07 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 20:07:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:07:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:07:06 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:07:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:07:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:07:10 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240216 20:07:12 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:07:12 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:07:13 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:07:13 INFO  [main] base.BasePage BasePage.java77 - text is extracted from LoginErrorMsg
+20240216 20:07:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4B.......test execution completed with success........
+20240216 20:07:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 20:07:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 20:07:14 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 20:09:48 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:09:49 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:09:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:09:53 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 20:09:54 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:09:55 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:09:55 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 20:09:57 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:09:59 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 20:09:59 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 20:10:05 INFO  [main] base.BasePage BasePage.java116 - userName TextBoxField is not displayed
+20240216 20:10:05 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - CheckRemeberMe_3.......test execution completed with failure........
+20240216 20:10:05 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 20:10:05 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 20:10:05 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240216 20:12:08 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:12:08 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:12:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:12:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:12:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:12:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 20:12:15 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:12:15 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:12:15 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 20:12:17 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:12:20 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 20:12:20 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 20:14:53 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240216 20:14:54 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240216 20:14:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240216 20:14:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240216 20:14:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240216 20:14:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240216 20:14:59 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240216 20:15:00 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240216 20:15:00 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240216 20:15:02 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240216 20:15:05 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240216 20:15:06 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240216 20:15:11 INFO  [main] base.BasePage BasePage.java112 - userName TextBoxField is displayed
+20240216 20:15:12 INFO  [main] base.BasePage BasePage.java77 - text is extracted from userNamefiledtext
+20240216 20:15:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - CheckRemeberMe_3.......test execution completed with success........
+20240216 20:15:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240216 20:15:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240216 20:15:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 12:00:00 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 12:00:01 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 12:00:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 12:00:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 12:00:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 12:00:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240220 12:00:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 12:00:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 12:00:14 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240220 12:00:19 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 12:00:19 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240220 12:00:20 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240220 12:00:25 INFO  [main] base.BasePage BasePage.java112 - userName TextBoxField is displayed
+20240220 12:00:25 INFO  [main] base.BasePage BasePage.java77 - text is extracted from userNamefiledtext
+20240220 12:00:25 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - CheckRemeberMe_3.......test execution completed with success........
+20240220 12:00:25 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 12:00:25 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 12:00:25 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 12:00:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 12:00:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 12:00:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 12:00:27 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4A.......test execution started........
+20240220 12:00:28 INFO  [main] base.BasePage BasePage.java66 - forgotpasswordlinkbutton is clicked
+20240220 12:00:28 INFO  [main] base.BasePage BasePage.java77 - text is extracted from forgotPageMsg
+20240220 12:00:29 INFO  [main] base.BasePage BasePage.java55 - data is entered in userName
+20240220 12:00:29 INFO  [main] base.BasePage BasePage.java66 - continuebutton is clicked
+20240220 12:00:29 INFO  [main] base.BasePage BasePage.java77 - text is extracted from EmailError
+20240220 12:00:29 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4A.......test execution completed with success........
+20240220 12:00:30 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 12:00:30 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 12:00:30 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 12:00:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 12:00:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 12:00:32 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 12:00:32 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240220 12:00:33 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 12:00:34 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 12:00:34 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 12:00:34 INFO  [main] base.BasePage BasePage.java77 - text is extracted from LoginErrorMsg
+20240220 12:00:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4B.......test execution completed with success........
+20240220 12:00:35 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 12:00:35 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 12:00:35 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 12:00:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 12:00:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 12:00:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 12:00:37 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240220 12:00:38 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 12:00:39 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240220 12:00:39 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 12:00:39 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - LoginErrorMessage_1.......test execution completed with failure........
+20240220 12:00:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 12:00:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 12:00:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 12:00:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 12:00:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 12:00:42 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 12:00:42 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240220 12:00:44 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 12:00:45 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 12:00:47 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 12:00:52 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240220 12:00:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 12:00:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 12:00:53 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 19:50:57 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - TestFrame has started....................
+20240220 19:50:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:51:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:51:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:51:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:51:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240220 19:51:04 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:51:04 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 19:51:05 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240220 19:51:07 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:51:09 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240220 19:51:10 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240220 19:51:15 INFO  [main] base.BasePage BasePage.java112 - userName TextBoxField is displayed
+20240220 19:51:15 INFO  [main] base.BasePage BasePage.java77 - text is extracted from userNamefiledtext
+20240220 19:51:15 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - CheckRemeberMe_3.......test execution completed with success........
+20240220 19:51:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:51:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:51:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:51:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:51:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:51:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:51:16 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4A.......test execution started........
+20240220 19:51:17 INFO  [main] base.BasePage BasePage.java66 - forgotpasswordlinkbutton is clicked
+20240220 19:51:17 INFO  [main] base.BasePage BasePage.java77 - text is extracted from forgotPageMsg
+20240220 19:51:17 INFO  [main] base.BasePage BasePage.java55 - data is entered in userName
+20240220 19:51:17 INFO  [main] base.BasePage BasePage.java66 - continuebutton is clicked
+20240220 19:51:18 INFO  [main] base.BasePage BasePage.java77 - text is extracted from EmailError
+20240220 19:51:18 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4A.......test execution completed with success........
+20240220 19:51:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:51:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:51:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:51:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:51:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:51:20 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:51:20 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240220 19:51:20 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:51:21 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 19:51:21 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:51:21 INFO  [main] base.BasePage BasePage.java77 - text is extracted from LoginErrorMsg
+20240220 19:51:21 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - ForgotPassword_4B.......test execution completed with success........
+20240220 19:51:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:51:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:51:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:51:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:51:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:51:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:51:27 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240220 19:51:27 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:51:27 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240220 19:51:28 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:51:28 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - LoginErrorMessage_1.......test execution completed with failure........
+20240220 19:51:28 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:51:28 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:51:28 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:51:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:51:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:51:30 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:51:30 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240220 19:51:30 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:51:30 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 19:51:32 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:51:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - LoginToSalesForce_2.......test execution completed with success........
+20240220 19:51:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:51:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:51:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - TestFrame has ended....................
+20240220 19:54:09 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 19:54:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:54:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:54:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:54:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:54:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240220 19:54:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:54:13 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240220 19:54:13 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:54:13 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - LoginErrorMessage_1.......test execution completed with failure........
+20240220 19:54:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:54:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:54:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 19:56:07 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 19:56:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 19:56:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 19:56:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 19:56:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:56:10 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240220 19:56:10 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 19:56:10 INFO  [main] base.BasePage BasePage.java100 - password is cleared
+20240220 19:56:11 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 19:56:11 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - LoginErrorMessage_1.......test execution completed with failure........
+20240220 19:56:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 19:56:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 19:56:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 20:13:10 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 20:13:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 20:13:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 20:13:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 20:13:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 20:13:14 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC20_leadsTab.......test execution started........
+20240220 20:13:14 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 20:13:15 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 20:13:17 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 20:13:23 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 20:13:23 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC20_leadsTab.......test execution completed with success........
+20240220 20:13:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 20:13:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 20:13:24 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 20:45:21 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 20:45:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 20:45:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 20:45:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 20:45:28 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 20:45:28 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC21_leadsSelectView.......test execution started........
+20240220 20:45:29 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 20:45:30 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 20:45:33 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 20:45:40 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 20:45:40 INFO  [main] base.BasePage BasePage.java66 - LeadsDropDownbutton is clicked
+20240220 20:45:40 INFO  [main] base.BasePage BasePage.java77 - text is extracted from dropDownLeads
+20240220 20:45:40 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC21_leadsSelectView.......test execution completed with success........
+20240220 20:45:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 20:45:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 20:45:40 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 20:46:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 20:46:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 20:46:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 20:46:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 20:46:17 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 20:46:17 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC20_leadsTab.......test execution started........
+20240220 20:46:17 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 20:46:18 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 20:46:24 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 20:46:26 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 20:46:26 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC20_leadsTab.......test execution completed with success........
+20240220 20:46:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 20:46:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 20:46:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 20:46:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 20:46:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 20:46:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 20:46:27 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC21_leadsSelectView.......test execution started........
+20240220 20:46:28 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 20:46:29 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 20:46:31 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 20:46:36 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 20:46:41 INFO  [main] base.BasePage BasePage.java66 - LeadsDropDownbutton is clicked
+20240220 20:46:41 INFO  [main] base.BasePage BasePage.java77 - text is extracted from dropDownLeads
+20240220 20:46:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC21_leadsSelectView.......test execution completed with success........
+20240220 20:46:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 20:46:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 20:46:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 22:18:00 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - TestFrame has started....................
+20240220 22:18:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:18:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:18:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:18:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:18:04 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - CheckRemeberMe_3.......test execution started........
+20240220 22:18:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:18:07 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:18:07 INFO  [main] base.BasePage BasePage.java66 - RememberMeButtonbutton is clicked
+20240220 22:18:14 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:18:15 INFO  [main] base.BasePage BasePage.java66 - UserMenuDropDownbutton is clicked
+20240220 22:18:17 INFO  [main] base.BasePage BasePage.java66 - logOutLinkbutton is clicked
+20240220 22:18:22 INFO  [main] base.BasePage BasePage.java112 - userName TextBoxField is displayed
+20240220 22:18:22 INFO  [main] base.BasePage BasePage.java77 - text is extracted from userNamefiledtext
+20240220 22:18:22 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - CheckRemeberMe_3.......test execution completed with success........
+20240220 22:18:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:18:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:18:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:18:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:18:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:18:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:18:27 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4A.......test execution started........
+20240220 22:18:28 INFO  [main] base.BasePage BasePage.java66 - forgotpasswordlinkbutton is clicked
+20240220 22:18:28 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - ForgotPassword_4A.......test execution completed with failure........
+20240220 22:18:28 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - ForgotPassword_4B.......test execution started........
+20240220 22:18:29 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginErrorMessage_1.......test execution started........
+20240220 22:18:29 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - LoginToSalesForce_2.......test execution started........
+20240220 22:18:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:18:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:18:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:18:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:18:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC20_leadsTab.......test execution started........
+20240220 22:18:33 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC20_leadsTab.......test execution completed with failure........
+20240220 22:18:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC21_leadsSelectView.......test execution started........
+20240220 22:18:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC22_defaultView.......test execution started........
+20240220 22:18:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC23.......test execution started........
+20240220 22:18:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - TestFrame has ended....................
+20240220 22:18:57 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 22:18:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:19:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:19:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:19:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:19:02 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC20_leadsTab.......test execution started........
+20240220 22:19:03 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:19:03 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:19:06 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:19:10 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 22:19:10 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC20_leadsTab.......test execution completed with success........
+20240220 22:19:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:19:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:19:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:19:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:19:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:19:13 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:19:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC21_leadsSelectView.......test execution started........
+20240220 22:19:16 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:19:16 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:19:24 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:19:26 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 22:19:31 INFO  [main] base.BasePage BasePage.java66 - LeadsDropDownbutton is clicked
+20240220 22:19:31 INFO  [main] base.BasePage BasePage.java77 - text is extracted from dropDownLeads
+20240220 22:19:31 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC21_leadsSelectView.......test execution completed with success........
+20240220 22:19:32 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:19:32 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:19:32 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:19:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:19:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:19:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:19:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC22_defaultView.......test execution started........
+20240220 22:19:35 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:19:36 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:19:38 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:19:45 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 22:19:50 INFO  [main] base.BasePage BasePage.java66 - LeadsDropDownbutton is clicked
+20240220 22:19:50 INFO  [main] base.BasePage BasePage.java77 - text is extracted from dropDownLeads
+20240220 22:19:50 INFO  [main] base.BasePage BasePage.java124 - option : Today's Leads is selected view dropDown
+20240220 22:20:04 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 22:20:06 INFO  [main] base.BasePage BasePage.java66 - go buttonbutton is clicked
+20240220 22:20:06 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC22_defaultView.......test execution completed with success........
+20240220 22:20:06 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:20:06 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:20:06 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:20:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:20:08 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:20:08 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:20:08 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC23.......test execution started........
+20240220 22:20:11 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:20:11 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:20:13 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:20:17 INFO  [main] base.BasePage BasePage.java66 - clickTabbutton is clicked
+20240220 22:20:18 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC23.......test execution completed with failure........
+20240220 22:20:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:20:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:20:18 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 22:28:20 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 22:28:20 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 22:28:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 22:28:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 22:28:24 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:28:24 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC23.......test execution started........
+20240220 22:28:25 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 22:28:26 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 22:28:28 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 22:28:33 INFO  [main] base.BasePage BasePage.java66 - click leadsTabbutton is clicked
+20240220 22:28:34 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC23.......test execution completed with failure........
+20240220 22:28:35 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 22:28:35 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 22:28:35 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:09:46 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:09:46 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:09:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:09:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:09:52 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:09:52 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:09:52 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:09:52 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:13:55 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:13:56 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:14:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:14:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:14:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:14:02 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:14:02 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:14:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:14:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:14:02 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:18:18 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:18:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:18:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:18:21 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:18:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:18:23 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:18:26 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:18:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:18:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:18:26 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:22:37 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:22:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:22:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:22:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:22:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:22:40 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:22:42 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:22:42 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:22:44 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:22:49 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:22:50 INFO  [main] base.BasePage BasePage.java66 - click buttonbutton is clicked
+20240220 23:22:50 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:22:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:22:50 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:22:50 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:30:59 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:31:00 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:31:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:31:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:31:05 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:31:05 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:31:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:31:07 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:31:09 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:31:15 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:31:19 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:31:19 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:31:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:31:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:31:19 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:33:22 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:33:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:33:25 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:33:25 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:33:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:33:29 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:33:31 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:33:32 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:33:35 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:34:01 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:34:01 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:34:23 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:34:23 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:34:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:34:26 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:34:27 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:34:27 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:34:29 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:34:29 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:34:32 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:35:08 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:35:12 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:35:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240220 23:35:14 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240220 23:35:14 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240220 23:35:14 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:35:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:35:15 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:35:15 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:37:15 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:37:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:37:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:37:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:37:20 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:37:20 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:37:21 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:37:22 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:37:24 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:37:29 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:37:34 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:37:34 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240220 23:37:35 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240220 23:37:36 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240220 23:37:36 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:37:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:37:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:37:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:37:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:37:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:37:39 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:37:39 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC26.......test execution started........
+20240220 23:37:39 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC26.......test execution completed with success........
+20240220 23:37:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:37:40 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:37:40 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:38:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:38:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:38:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:38:36 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:38:37 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:38:37 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:38:38 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:38:39 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:38:43 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:38:47 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:38:51 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:38:51 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240220 23:38:52 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240220 23:38:56 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240220 23:38:59 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:38:59 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:38:59 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:38:59 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:40:43 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:40:44 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:40:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:40:48 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:40:51 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:40:51 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:40:53 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:40:55 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:40:57 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:41:04 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:41:08 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:41:08 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240220 23:41:09 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240220 23:41:13 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240220 23:41:16 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC25.......test execution completed with failure........
+20240220 23:41:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:41:16 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:41:17 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240220 23:43:07 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240220 23:43:08 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240220 23:43:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240220 23:43:10 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240220 23:43:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240220 23:43:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240220 23:43:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240220 23:43:13 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240220 23:43:15 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240220 23:43:20 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240220 23:43:24 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240220 23:43:24 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240220 23:43:25 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240220 23:43:30 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240220 23:43:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC25.......test execution completed with success........
+20240220 23:43:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240220 23:43:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240220 23:43:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 00:00:37 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 00:00:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 00:00:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 00:00:41 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 00:00:43 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 00:00:43 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC26.......test execution started........
+20240221 00:00:44 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 00:00:45 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 00:00:52 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 00:00:57 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 00:00:58 INFO  [main] base.BasePage BasePage.java66 - create new viewbutton is clicked
+20240221 00:01:01 INFO  [main] base.BasePage BasePage.java55 - data is entered in view name
+20240221 00:01:02 INFO  [main] base.BasePage BasePage.java55 - data is entered in uniq view name
+20240221 00:01:08 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240221 00:01:08 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC26.......test execution completed with success........
+20240221 00:01:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 00:01:09 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 00:01:09 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 00:14:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 00:14:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 00:14:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 00:14:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 00:14:19 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 00:14:19 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC27.......test execution started........
+20240221 00:14:20 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 00:14:21 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 00:14:23 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 00:14:29 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 00:14:29 INFO  [main] base.BasePage BasePage.java124 - option : Recently Created is selected recently created
+20240221 00:14:29 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC27.......test execution completed with success........
+20240221 00:14:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 00:14:29 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 00:14:30 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 00:26:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 00:26:59 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 00:27:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 00:27:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 00:27:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 00:27:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC23.......test execution started........
+20240221 00:27:04 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 00:27:05 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 00:27:10 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 00:27:12 INFO  [main] base.BasePage BasePage.java66 - click leadsTabbutton is clicked
+20240221 00:27:18 INFO  [main] base.BasePage BasePage.java66 - LeadsDropDownbutton is clicked
+20240221 00:27:18 INFO  [main] base.BasePage BasePage.java124 - option : Today's Leads is selected view dropDown
+20240221 00:27:18 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC23.......test execution completed with success........
+20240221 00:27:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 00:27:18 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 00:27:18 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 00:47:57 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 00:47:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 00:48:01 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 00:48:01 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 00:48:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 00:48:02 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC28.......test execution started........
+20240221 00:48:03 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 00:48:04 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 00:48:09 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 00:48:13 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 00:48:13 INFO  [main] base.BasePage BasePage.java66 - contact dropdownbutton is clicked
+20240221 00:48:13 INFO  [main] base.BasePage BasePage.java124 - option : My Contacts is selected my contacts from dropdown
+20240221 00:48:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC28.......test execution completed with success........
+20240221 00:48:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 00:48:14 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 00:48:14 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 00:57:54 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 00:57:55 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 00:57:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 00:57:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 00:57:59 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 00:57:59 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC29.......test execution started........
+20240221 00:58:02 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 00:58:02 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 00:58:04 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 00:58:09 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 00:58:10 INFO  [main] base.BasePage BasePage.java66 - contact namebutton is clicked
+20240221 00:58:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC29.......test execution completed with success........
+20240221 00:58:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 00:58:11 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 00:58:11 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 09:47:52 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 09:47:53 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:47:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 09:47:57 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 09:47:58 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 09:47:58 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC30.......test execution started........
+20240221 09:47:59 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 09:48:00 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 09:48:03 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 09:48:09 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 09:48:10 INFO  [main] base.BasePage BasePage.java66 - clickView New Hyperlinkbutton is clicked
+20240221 09:48:11 INFO  [main] base.BasePage BasePage.java55 - data is entered in uniqview name
+20240221 09:48:12 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240221 09:48:12 INFO  [main] base.BasePage BasePage.java77 - text is extracted from Error msg
+20240221 09:48:12 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC30.......test execution completed with success........
+20240221 09:48:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 09:48:12 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 09:48:13 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 09:56:34 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 09:56:34 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:56:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 09:56:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 09:56:38 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 09:56:38 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC31.......test execution started........
+20240221 09:56:40 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 09:56:41 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 09:56:43 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 09:56:48 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 09:56:49 INFO  [main] base.BasePage BasePage.java66 - create new viewbutton is clicked
+20240221 09:56:52 INFO  [main] base.BasePage BasePage.java55 - data is entered in view name
+20240221 09:56:53 INFO  [main] base.BasePage BasePage.java55 - data is entered in uniq view name
+20240221 09:56:54 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240221 09:56:55 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC31.......test execution completed with failure........
+20240221 09:56:55 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 09:56:55 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 09:56:55 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 09:59:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 09:59:04 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:59:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 09:59:07 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 09:59:08 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 09:59:08 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC25.......test execution started........
+20240221 09:59:09 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 09:59:10 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 09:59:12 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 09:59:17 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 09:59:21 INFO  [main] base.BasePage BasePage.java66 - click new buttonbutton is clicked
+20240221 09:59:22 INFO  [main] base.BasePage BasePage.java55 - data is entered in last name
+20240221 09:59:22 INFO  [main] base.BasePage BasePage.java55 - data is entered in account name
+20240221 09:59:28 INFO  [main] base.BasePage BasePage.java66 - save buttonbutton is clicked
+20240221 09:59:31 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC25.......test execution completed with success........
+20240221 09:59:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 09:59:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 09:59:31 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 09:59:32 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 09:59:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 09:59:33 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 09:59:33 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC26.......test execution started........
+20240221 09:59:35 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 09:59:36 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 09:59:37 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 09:59:41 ERROR [main] utilities.ListenerUtility ListenerUtility.java38 - TC26.......test execution completed with failure........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC27.......test execution started........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC28.......test execution started........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC29.......test execution started........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC30.......test execution started........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC31.......test execution started........
+20240221 09:59:41 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................
+20240221 09:59:59 INFO  [main] utilities.ListenerUtility ListenerUtility.java73 - Default test has started....................
+20240221 09:59:59 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java44 - .........BeforeMethod setUpBeforeMethod executed---------------
+20240221 10:00:02 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java65 - browser instance chrome created.
+20240221 10:00:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java68 - window is maximized
+20240221 10:00:03 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java104 - https://login.salesforce.com/is entered
+20240221 10:00:03 INFO  [main] utilities.ListenerUtility ListenerUtility.java24 - TC31.......test execution started........
+20240221 10:00:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in username field
+20240221 10:00:06 INFO  [main] base.BasePage BasePage.java55 - data is entered in password field
+20240221 10:00:11 INFO  [main] base.BasePage BasePage.java66 - loginButtonbutton is clicked
+20240221 10:00:16 INFO  [main] base.BasePage BasePage.java66 - contact Tab Buttonbutton is clicked
+20240221 10:00:16 INFO  [main] base.BasePage BasePage.java66 - create new viewbutton is clicked
+20240221 10:00:20 INFO  [main] base.BasePage BasePage.java55 - data is entered in view name
+20240221 10:00:20 INFO  [main] base.BasePage BasePage.java55 - data is entered in uniq view name
+20240221 10:00:21 INFO  [main] base.BasePage BasePage.java66 - cancel buttonbutton is clicked
+20240221 10:00:21 INFO  [main] utilities.ListenerUtility ListenerUtility.java31 - TC31.......test execution completed with success........
+20240221 10:00:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java110 - browser instance closed
+20240221 10:00:22 INFO  [main] base.SalesforceBaseTest SalesforceBaseTest.java54 - ******tearDownAfterTestMethod executed***********
+20240221 10:00:22 INFO  [main] utilities.ListenerUtility ListenerUtility.java81 - Default test has ended....................

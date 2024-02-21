@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T09:59:59 EST" name="Default suite" finished-at="2024-02-21T10:00:22 EST" duration-ms="23106">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T09:59:59 EST" name="Default test" finished-at="2024-02-21T10:00:22 EST" duration-ms="23106">
+      <class name="com.salesforce.automation.scripts.ContactsModule">
+        <test-method is-config="true" signature="setUpBeforeMethod(java.lang.String,org.testng.ITestResult)[pri:0, instance:com.salesforce.automation.scripts.ContactsModule@11dee337]" started-at="2024-02-21T09:59:59 EST" name="setUpBeforeMethod" finished-at="2024-02-21T10:00:03 EST" duration-ms="4076" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ContactsModule.TC31()[pri:0, instance:com.salesforce.automation.scripts.ContactsModule@11dee337] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC31()[pri:0, instance:com.salesforce.automation.scripts.ContactsModule@11dee337]" started-at="2024-02-21T10:00:03 EST" name="TC31" finished-at="2024-02-21T10:00:21 EST" duration-ms="17913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC31 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.salesforce.automation.scripts.ContactsModule@11dee337]" started-at="2024-02-21T10:00:21 EST" name="tearDownAfterTestMethod" finished-at="2024-02-21T10:00:22 EST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.salesforce.automation.scripts.ContactsModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
